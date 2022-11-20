@@ -1,0 +1,15 @@
+{ 
+  "name": "clean-code-js",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "scripts": {
+  "test": "mocha index.js"
+},
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chromedriver": "^107.0.3",
+    "mocha": "^10.1.0",
+    "selenium-webdriver": "^4.6.1"
+  }
+}
